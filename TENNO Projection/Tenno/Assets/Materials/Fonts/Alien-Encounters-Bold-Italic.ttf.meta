@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 86a7f236fe45cea44a26ac9d3db283f2
+timeCreated: 1548126136
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alien Encounters
+  fontNames:
+  - Alien Encounters
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 25b17cf0f14316e43866151da23ea1e5, type: 3}
+  - {fileID: 12800000, guid: 7139351538beb93418fbfda39e69fd1f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
